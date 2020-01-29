@@ -8,3 +8,32 @@
 
 Berikut ini kode-kode yang ada pada modul praktikum GP2103 Metode Komputasi Tahun 2018 Semester 1 di Program Studi Teknik Geofisika, Universitas Pertamina.
 Bahasa yang digunakan berupa Python versi 3 dengan Compiler berupa Pycharm dan Python 3.7.
+
+## Citation
+If you find this project useful for your research, please use the following BibTeX entry.
+
+**For Module**
+    
+    @misc{Heriyanto_2018,
+    title={Modul Praktikum GP2103 Metode Komputasi versi Python},
+    url={osf.io/h6d5w},
+    DOI={10.17605/OSF.IO/H6D5W},
+    publisher={OSF},
+    author={Heriyanto, Mohammad},
+    year={2018},
+    month={Dec}
+    }
+
+**For Software**
+    
+    @software{mohammad_heriyanto_2018_1807591,
+    author       = {Mohammad Heriyanto},
+    title        = {{Kode-Praktikum-GP2103-Metode-Komputasi-versi- 
+                   Python}},
+                   month        = dec,
+                   year         = 2018,
+                   publisher    = {Zenodo},
+                   version      = {v2.0},
+                   doi          = {10.5281/zenodo.1807591},
+                   url          = {https://doi.org/10.5281/zenodo.1807591}
+                   }
