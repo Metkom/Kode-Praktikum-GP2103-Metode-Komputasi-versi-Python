@@ -6,8 +6,11 @@
 [![HitCount](http://hits.dwyl.com/Metkom/Kode-Praktikum-GP2103-Metode-Komputasi-versi-Python.svg)](http://hits.dwyl.com/Metkom/Kode-Praktikum-GP2103-Metode-Komputasi-versi-Python)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Metkom/Kode-Praktikum-GP2103-Metode-Komputasi-versi-Python/total.svg)
 
-Berikut ini kode-kode yang ada pada modul praktikum GP2103 Metode Komputasi Tahun 2018 Semester 1 di Program Studi Teknik Geofisika, Universitas Pertamina.
-Bahasa yang digunakan berupa Python versi 3 dengan Compiler berupa Pycharm dan Python 3.7.
+Berikut ini kode-kode yang ada pada modul praktikum GP2103 Metode Komputasi Tahun 2018 Semester 1 di Program Studi Teknik Geofisika, Universitas Pertamina. Bahasa yang digunakan berupa Python versi 3 dengan Compiler berupa PyCharm dan Python 3.7. Modul praktikum dalam bentuk PDF bisa didownload di [osf.io](https://osf.io/h6d5w/) dan kode versi release berada di [zenodo.org](https://zenodo.org/record/1807591) dan [github.com](https://github.com/Metkom/Kode-Praktikum-GP2103-Metode-Komputasi-versi-Python). Berikut ini cover modul praktikum GP2103 Metode Komputasi:
+
+<p align="center">
+<img src="https://github.com/Metkom/Kode-Praktikum-GP2103-Metode-Komputasi/blob/master/images/metode_komputasi.jpg" width="50%">
+</p>
 
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
